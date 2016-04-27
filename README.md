@@ -7,6 +7,7 @@ Customized Debian Jessie Docker image.
 ## Contents
 * curl
 * wget
+* tree
 * Docker client 1.8.3
 * Docker-Compose 1.5.2
 

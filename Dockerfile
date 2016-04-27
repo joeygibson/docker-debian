@@ -3,7 +3,7 @@ FROM debian:jessie
 ENV DEBIAN_FRONTEND noninteractive
 
 RUN apt-get update && \
-    apt-get install -y curl docker && \
+    apt-get install -y curl docker tree && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 

@@ -1,4 +1,7 @@
 # docker-debian
+
+[![Build Status](https://travis-ci.org/joeygibson/docker-debian.svg?branch=master)](https://travis-ci.org/joeygibson/docker-debian)
+
 Customized Debian Jessie Docker image.
 
 ## Contents
